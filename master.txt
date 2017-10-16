@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-this is t2
-=======
-this is t1 branch
->>>>>>> t1
